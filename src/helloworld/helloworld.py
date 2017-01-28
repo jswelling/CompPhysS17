@@ -19,7 +19,7 @@ def main():
     Yifan Gu (from own repo)
     Richard Zhao
     cquinone (fork)
-    Hantao Zhang
+    Hantao Zhang (fork)
     """
 
 
